@@ -1,2 +1,6 @@
 soha.txt
+*.jpg
+!srk.jpg
+/demo
+myfolder/demo
 
